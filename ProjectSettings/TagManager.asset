@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Resource
+  - Enemy
+  - Platform
+  - Projectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Land Enemy
+  - Projectile
+  - Resource
+  - Flying Enemy
+  - Camera Collider
+  - Land
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Platform
+    uniqueID: 3026525585
+    locked: 0
+  - name: Resource
+    uniqueID: 3047790383
+    locked: 0
+  - name: Projectile
+    uniqueID: 40368347
+    locked: 0
+  - name: Shadow
+    uniqueID: 3493093657
+    locked: 0
+  - name: Character
+    uniqueID: 3973774797
+    locked: 0
+  - name: Attack Indicator
+    uniqueID: 3898463125
+    locked: 0

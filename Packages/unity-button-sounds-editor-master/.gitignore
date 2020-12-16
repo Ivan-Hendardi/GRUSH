@@ -1,0 +1,7 @@
+ButtonSoundsEditor/Library/
+ButtonSoundsEditor/Temp/
+ButtonSoundsEditor/obj/
+*.suo
+*.csproj
+*.sln
+*.userprefs
