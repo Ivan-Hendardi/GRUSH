@@ -13,4 +13,4 @@ Ryandy Sonata - 2031171
 Handyca Yeng - 2031139
 Kenny Wilson - 2031168 
 
-Script located in Asset > Script
+Script located in Assets > Script
